@@ -1,4 +1,4 @@
-# 
+# Intelligent Skyvern plugins. Avec assistant vocal et UI personnalisable — optimisé pour des performances et une efficacité maximales.
 
 
 
